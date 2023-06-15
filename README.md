@@ -5,7 +5,6 @@
 - 🤔 I’m looking for help with full-stack development
 - 💬 Ask me about algorithms
 - 📫 How to reach me: immanuelvatta@gmail.com
-- 
 <!--
 **immanuelvatta/immanuelvatta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
