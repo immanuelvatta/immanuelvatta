@@ -5,15 +5,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immanuelvatta&label=Profile%20views&color=0e75b6&style=flat" alt="immanuelvatta" /> </p>
 
-- 🔭 I’m currently working on **Web-Development**
+- 🔭 I’m currently working on **Python**
+  
+- ⚒️ I'm currently learning **Python**
 
-- 🌱 I’m currently learning **Web-Development using HTML,CSS,and JS**
+- 🌱 I learned **Web-Development using HTML,CSS,JS and Bootstrap**
 
 - 🤝 I’m looking for help with **full-stack development**
 
 - 💬 Ask me about **algorithmns**
 
 - 📫 How to reach me **immanuelvatta@gmail.com**
+
+- 💻 Check out the portfolio website i build using HTML CSS JS and Bootstrap ➡️ [Here](https://immanuelvatta.github.io/Portfolio/)
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/immanuelv/](https://www.linkedin.com/in/immanuelv/)
 
