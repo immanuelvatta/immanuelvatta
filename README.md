@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immanuelvatta&label=Profile%20views&color=0e75b6&style=flat" alt="immanuelvatta" /> </p>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **MERN**
   
-- ⚒️ I'm currently learning **Python**
+- ⚒️ I'm currently learning **MERN**
 
-- 🌱 I learned **Web-Development using HTML,CSS,JS and Bootstrap**
+- 🌱 I learned **Web-Development using HTML,CSS,JS and Bootstrap, Created Flask and Django Applications using Python**
 
 - 🤝 I’m looking for help with **full-stack development**
 
