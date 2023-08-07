@@ -31,4 +31,4 @@
 
 <p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=immanuelvatta&theme=dark&show_icons=true&locale=en&layout=compact" alt="immanuelvatta" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immanuelvatta&" alt="immanuelvatta" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=immanuelvatta&theme=dark" alt="immanuelvatta" /></p>
