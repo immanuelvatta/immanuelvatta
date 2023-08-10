@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Immanuel Vattakunnel</h1>
-<h3 align="center">A passionate full-stack developer</h3>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Developer,;Active+Learner/Researcher,;Detalied+and+Task+Oriented,;Love+to+learn+new+technologies+...,;"></a>
+</p>
+
+
 <img align="right" alt="Coding" width ="400" src="https://media.tenor.com/GfSX-u7VGM4AAAAC/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immanuelvatta&label=Profile%20views&color=0e75b6&style=flat" alt="immanuelvatta" /> </p>
