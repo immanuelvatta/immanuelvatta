@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/immanuelv/](https://www.linkedin.com/in/immanuelv/)
 
-  ![Snake animation](https://github.com/immanuelvatta/immanuelvatta/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/immanuelvatta/immanuelvatta/blob/output/github-contribution-grid-snake.gif)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
