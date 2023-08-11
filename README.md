@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hi , I'm Immanuel Vattakunnel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=25&pause=1000&color=18F715FF&background=F2FF1400&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Developer,;Active+Learner/Researcher,;Detalied+and+Task+Oriented,;Love+to+learn+new+technologies+...,;"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=25&pause=1000&color=1b78b2&background=F2FF1400&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Software+Developer,;Active+Learner/Researcher,;Detalied+and+Task+Oriented,;Love+to+learn+new+technologies+...,;"></a>
 </p>
 
 
