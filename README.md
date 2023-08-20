@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immanuelvatta&label=Profile%20views&color=0e75b6&style=flat" alt="immanuelvatta" /> </p>
 
-- 🔭 I’m currently working on **MERN**
+- 🔭 I’m currently working on a **MERN** project (RBIV Real Estate Websote)
   
 - ⚒️ I'm currently learning **MERN**
 
