@@ -13,7 +13,9 @@
   
 - ⚒️ I'm currently learning **MERN**
 
-- 🌱 I learned **Web-Development using HTML,CSS,JS and Bootstrap, Created Flask and Django Applications using Python**
+- 🌱 I learned
+  -   **Web-Development using HTML,CSS,JS and Bootstrap,
+  -   Created Flask and Django Applications using Python**
 
 - 🤝 I’m looking for help with **full-stack development**
 
