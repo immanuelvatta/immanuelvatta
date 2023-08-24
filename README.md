@@ -9,9 +9,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immanuelvatta&label=Profile%20views&color=0e75b6&style=flat" alt="immanuelvatta" /> </p>
 
-- 🔭 I’m currently working on a **MERN** project (RBIV Real Estate Website)
+- 🔭 I’m currently working on a **MERN (MongoDB, Express, React, Node)** project (RBIV Real Estate Website)
   
-- ⚒️ I'm currently learning **MERN**
+- ⚒️ I'm currently learning **MERN (MongoDB, Express, React, Node)**
 
 - 🌱 I learned
   -   **Web-Development using HTML,CSS,JS and Bootstrap,
