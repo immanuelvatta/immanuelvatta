@@ -9,14 +9,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immanuelvatta&label=Profile%20views&color=0e75b6&style=flat" alt="immanuelvatta" /> </p>
 
-- 🔭 I’m currently working on a **MERN (MongoDB, Express, React, Node)** project (RBIV Real Estate Website) ➡️ [Here](http://35.87.77.5/)
+- 🔭 I’m currently working building a project in Java
 
   
-- ⚒️ I'm currently learning **MERN (MongoDB, Express, React, Node)**
+- ⚒️ I'm currently learning Java
 
 - 🌱 I learned
   -   **Web-Development using HTML,CSS,JS and Bootstrap,
   -   Created Flask and Django Applications using Python**
+  -   **MERN (MongoDB, Express, React, Node)**
+  -   Created **MERN (MongoDB, Express, React, Node)** project (RBIV Real Estate Website) ➡️ [Here](http://35.87.77.5/)
 
 - 🤝 I’m looking for help with **full-stack development**
 
