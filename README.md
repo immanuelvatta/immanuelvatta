@@ -14,9 +14,9 @@
   
 - ⚒️ I'm currently learning Java
 
-- 🌱 I learned
-  -   **Web-Development using HTML,CSS,JS and Bootstrap,
-  -   Created Flask and Django Applications using Python**
+- 🌱 I've learned
+  -   **Web-Development** using HTML,CSS,JS and Bootstrap,
+  -   Created Flask and Django Applications in Python
   -   **MERN (MongoDB, Express, React, Node)**
   -   Created **MERN (MongoDB, Express, React, Node)** project (RBIV Real Estate Website) ➡️ [Here](http://35.87.77.5/)
 
