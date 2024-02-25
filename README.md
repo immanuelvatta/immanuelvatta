@@ -9,10 +9,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=immanuelvatta&label=Profile%20views&color=0e75b6&style=flat" alt="immanuelvatta" /> </p>
 
+- ⚒️ I'm currently a Software Engineer II for Volusia County
+
 - 🔭 I’m currently working building a project in Java ➡️ [Here](https://github.com/immanuelvatta/Expensify)
 
   
-- ⚒️ I'm currently a Software Engineer II for Volusia County
+
 
 - 🌱 I've learned
   -   **Web-Development** using HTML,CSS,JS and Bootstrap,
