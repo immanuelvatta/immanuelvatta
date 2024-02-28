@@ -11,7 +11,7 @@
 
 - ⚒️ I'm currently a Software Engineer II for Volusia County
 
-- 🔭 I’m currently working building a project in Java ➡️ [Here](https://github.com/immanuelvatta/Expensify)
+- 🔭 I’m currently learning about PHP and Drupal (which is a web content management system)
 
   
 
@@ -22,6 +22,7 @@
   -   **MERN (MongoDB, Express, React, Node)**
   -   Created **Flask** application that allows user to upload pdf files and preview it ➡️ [Here](https://github.com/immanuelvatta/Piano)
   -   Created **MERN (MongoDB, Express, React, Node)** project (RBIV Real Estate Website) ➡️ [Here](http://35.87.77.5/)
+  -   Created **Java** application that allows user to manage their budget (BWIV Expensify) ➡️ [Here](https://github.com/immanuelvatta/Expensify)
 
 
 - 🤝 I’m looking for help with **app deployment**
