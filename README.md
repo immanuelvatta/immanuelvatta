@@ -11,7 +11,7 @@
 
 - ⚒️ I'm currently a Software Engineer II for Volusia County
 
-- 🔭 I’m currently learning about PHP and Drupal (which is a web content management system)
+- 🔭 I’m currently learning about PHP and Web Content Management Systems
 
   
 
