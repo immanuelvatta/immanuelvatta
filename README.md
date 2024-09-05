@@ -13,7 +13,6 @@
 
 - 🔭 I’m currently learning about PHP and Web Content Management Systems
 - 🖥️ Converting Perl -> Powershell, VisualBasic -> .NET
-- 
 - 🌱 I've learned
   -   **Web-Development** using HTML,CSS,JS and Bootstrap,
   -   Created Flask and Django Applications in Python
